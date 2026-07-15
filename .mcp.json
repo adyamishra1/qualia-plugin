@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qualia": {
+      "type": "sse",
+      "url": "https://api.qualiaai.co/mcp/sse"
+    }
+  }
+}
