@@ -1,0 +1,12 @@
+{
+  "name": "qualia",
+  "description": "Recipient Intelligence for AI — give any AI agent a persistent, adaptive model of the person it's writing to. Profiles recipients, adapts messages structurally, and tracks relationship health over time.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Qualia AI",
+    "url": "https://qualiaai.co"
+  },
+  "homepage": "https://qualiaai.co/developers",
+  "repository": "https://github.com/adyamishra1/qualia-plugin",
+  "license": "MIT"
+}
